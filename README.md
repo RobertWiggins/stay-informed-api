@@ -1,5 +1,9 @@
 # Stay Informed API!
 
+The StayInformed web application gives United States based users the ability to look up their local congressional representatives' largest donors and recent news mentions. This is the server side repository which runs locally in conjunction with the StayInformed client repository, which can be found [here](https://github.com/RobertWiggins/stay-informed-client).
+
+Live Demo: https://stayinformed.now.sh/
+
 ## Local dev setup
 
 If using user `dunder-mifflin`:
